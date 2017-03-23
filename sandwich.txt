@@ -1,0 +1,23 @@
+git command line
+
+
+git add : 투석기
+
+git add -A : 앞으로 바뀌는 모든 사항 stage
+
+git commit -m “설명 쓰기”
+
+git log : 기록 조회
+
+
+
+branch : repository 안의 repository
+
+* git branch
+
+* git checkout -b 이름
+
+
+source tree 사용법
+
+source tree 는 git 을 시각적으로 보기 편리하도록 도와주는 툴이다.
