@@ -1,6 +1,8 @@
 git command line
 
 
+맥에서는 terminal 을 통해 명령어를 입력할 수 있다
+
 git add : 투석기
 
 git add -A : 앞으로 바뀌는 모든 사항 stage
